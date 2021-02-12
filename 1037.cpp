@@ -17,7 +17,7 @@ int main() {
 	/*for (int i = 0;i < cnt;i++) {
 		cout << arr[i];
 	}*/
-	long long what = -1; //32bit°¡ int¿´³ª
+	long long what = -1;
 
 	what = arr.at(0) * arr.at(cnt - 1);
 
