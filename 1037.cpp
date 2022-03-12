@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> //1037번 <약수>
 #include<vector>
 #include<algorithm>
 using namespace std;
